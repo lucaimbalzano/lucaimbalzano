@@ -25,7 +25,6 @@
 <img src="https://user-images.githubusercontent.com/77233335/117479085-91a68100-af68-11eb-81f4-ac15035646c5.png" width="60" height="60" />
 
 ----
-sql
 <img src="https://user-images.githubusercontent.com/45575898/132365047-95a5d0bb-ab16-43db-b39e-23d88d0bbe64.png" width="60" height="60" /> <img src="https://user-images.githubusercontent.com/45575898/132365042-e55f987d-7d75-4235-b46d-b37d13a306ff.png" width="60" height="60" />
 <img src="https://user-images.githubusercontent.com/45575898/132367132-73d0d37e-ca69-47c9-8e81-776e8f7248bd.png" width="60" height="60" />
 <img src="https://user-images.githubusercontent.com/45575898/132367139-da17878d-1ff4-457b-a607-1e11324016b3.png" width="60" height="60" />
