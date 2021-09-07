@@ -10,10 +10,10 @@
 
 
 ## Technologies ❄️
-<img src="https://user-images.githubusercontent.com/45575898/132363723-f7bae9a4-99e1-40dd-9e9e-77440aee4586.png" width="60" height="60" />
-<img src="https://user-images.githubusercontent.com/45575898/132371234-3dc7f969-c250-4bd4-a615-ab416c74fca3.png)" width="60" height="60" />
+<img src="https://user-images.githubusercontent.com/45575898/132363723-f7bae9a4-99e1-40dd-9e9e-77440aee4586.png" width="60" height="60" /> <img src="https://user-images.githubusercontent.com/45575898/132371234-3dc7f969-c250-4bd4-a615-ab416c74fca3.png" width="60" height="60" />
 <img src="https://user-images.githubusercontent.com/45575898/132365702-d8f3ea21-2527-457c-9137-177b60c62eca.png" width="60" height="60" />
 <img src="https://user-images.githubusercontent.com/45575898/132365706-1a3e7269-7aec-4106-87ca-957e6d64de1a.png" width="60" height="60" />
+.
 <img src="https://user-images.githubusercontent.com/45575898/132365707-a5b23793-d082-4c61-b605-4969ccf8ce2a.png" width="60" height="60" />
 <img src="https://user-images.githubusercontent.com/45575898/132365038-325720e3-221a-4f5f-9dfa-55a4f5479fc9.png" width="60" height="60" />
 <img src="https://user-images.githubusercontent.com/45575898/132370096-0443f3da-b637-48cb-8391-ca9137d47f07.png" width="60" height="60" />
