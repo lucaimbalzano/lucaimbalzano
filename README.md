@@ -1,5 +1,3 @@
-
-
   ```
   :::::::   ::::    ::::  :::::::::      :::     :::        :::::::::     :::     ::::    :::  ::::::::  
     :+:     +:+:+: :+:+:+ :+:    :+:   :+: :+:   :+:             :+:    :+: :+:   :+:+:   :+: :+:    :+: 
@@ -9,6 +7,10 @@
     #+#     #+#       #+# #+#    #+# #+#     #+# #+#         #+#      #+#     #+# #+#   #+#+# #+#    #+# 
   #######   ###       ### #########  ###     ### ########## ######### ###     ### ###    ####  ########  
   ```
+
+## sudo kill -9 UOY
+
+
 
 
 ## Technologies ❄️
@@ -36,7 +38,9 @@
 <img src="https://user-images.githubusercontent.com/45575898/132373211-8008503e-002e-41d7-a234-df2b0820cc2e.png" width="60" height="60" />
 <img src="https://user-images.githubusercontent.com/45575898/132367145-a908dd05-2cd0-4e35-a349-1baa3c5fd15f.png" width="60" height="60" />
 <img src="https://user-images.githubusercontent.com/45575898/132367129-8bfc5ced-8f22-484e-b407-b5c5e2c3a87a.png" width="60" height="60" />
-
+<img src="https://user-images.githubusercontent.com/45575898/132374566-e8aca758-460c-48d8-944c-dcf4a7590bd1.png" width="60" height="60" />
+<img src="https://user-images.githubusercontent.com/45575898/132374570-9e2c1e4c-723d-44b7-a175-6dd50326bc98.png" width="60" height="60" />
+---
 
 
 
