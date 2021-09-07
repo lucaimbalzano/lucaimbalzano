@@ -46,7 +46,4 @@
 
 
 
-
-
-![Daco_4054827](https://user-images.githubusercontent.com/45575898/132367258-a7e8de69-ecba-40ff-b1de-5ea5bae4eb8f.png)
-
+<img src="https://user-images.githubusercontent.com/45575898/132367258-a7e8de69-ecba-40ff-b1de-5ea5bae4eb8f.png)" width="230" height="200" />
