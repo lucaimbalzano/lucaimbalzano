@@ -1,4 +1,10 @@
-
+  :::::::   ::::    ::::  :::::::::      :::     :::        :::::::::     :::     ::::    :::  ::::::::  
+    :+:     +:+:+: :+:+:+ :+:    :+:   :+: :+:   :+:             :+:    :+: :+:   :+:+:   :+: :+:    :+: 
+    +:+     +:+ +:+:+ +:+ +:+    +:+  +:+   +:+  +:+            +:+    +:+   +:+  :+:+:+  +:+ +:+    +:+ 
+    +#+     +#+  +:+  +#+ +#++:++#+  +#++:++#++: +#+           +#+    +#++:++#++: +#+ +:+ +#+ +#+    +:+ 
+    +#+     +#+       +#+ +#+    +#+ +#+     +#+ +#+          +#+     +#+     +#+ +#+  +#+#+# +#+    +#+ 
+    #+#     #+#       #+# #+#    #+# #+#     #+# #+#         #+#      #+#     #+# #+#   #+#+# #+#    #+# 
+  #######   ###       ### #########  ###     ### ########## ######### ###     ### ###    ####  ########  
 
 
 
@@ -12,18 +18,3 @@
 
 ![Daco_391356](https://user-images.githubusercontent.com/45575898/132355418-a9397f33-8931-46f6-98d5-e4c368f56ed5.png)
 
-
-<!--
-**lucaimbalzano/lucaimbalzano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
