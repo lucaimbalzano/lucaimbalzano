@@ -9,12 +9,9 @@
 
 ## sudo kill -9 `01011001 01001111 01010101`
 
-#++--- ![Visitor Count](https://profile-counter.glitch.me/{lucaimbalzano}/count.svg) ---++#
-
----
-<p align="center">
+#++---<p align="center">
 <img   src="https://profile-counter.glitch.me/{lucaimbalzano}/count.svg">
-</p>
+</p>---++#
 
 
 ![snake gif](https://github.com/lucaimbalzano/lucaimbalzano/blob/output/github-contribution-grid-snake.svg)
