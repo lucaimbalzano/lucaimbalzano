@@ -9,7 +9,7 @@
 
 ## sudo kill -9 `01011001 01001111 01010101`
 
-
+#++--- ![Visitor Count](https://profile-counter.glitch.me/{lucaimbalzano}/count.svg) ---++#
 ![snake gif](https://github.com/lucaimbalzano/lucaimbalzano/blob/output/github-contribution-grid-snake.svg)
 
 ## ❄️ ❄️ ❄️
@@ -33,7 +33,7 @@
 ---
 
 
-![Visitor Count](https://profile-counter.glitch.me/{lucaimbalzano}/count.svg)
+
 
 
 <img src="https://user-images.githubusercontent.com/45575898/132367258-a7e8de69-ecba-40ff-b1de-5ea5bae4eb8f.png" width="330" height="300" />
