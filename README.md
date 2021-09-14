@@ -12,8 +12,10 @@
 #++--- ![Visitor Count](https://profile-counter.glitch.me/{lucaimbalzano}/count.svg) ---++#
 
 ---
+<p align="center">
+<img   src="https://profile-counter.glitch.me/{lucaimbalzano}/count.svg">
+</p>
 
-<img align="center"  src="https://profile-counter.glitch.me/{lucaimbalzano}/count.svg">
 
 ![snake gif](https://github.com/lucaimbalzano/lucaimbalzano/blob/output/github-contribution-grid-snake.svg)
 
