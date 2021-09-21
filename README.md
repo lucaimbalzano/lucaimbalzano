@@ -10,7 +10,7 @@
 ## sudo kill -9 `01011001 01001111 01010101`
 
 <p align="center">
-#++---<img   src="https://profile-counter.glitch.me/{lucaimbalzano}/count.svg">---++#
+<img   src="https://profile-counter.glitch.me/{lucaimbalzano}/count.svg">
 </p>
 
 
