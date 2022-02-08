@@ -6,7 +6,9 @@
     #+#    #+#       #+# #+#    #+# #+#     #+# #+#         #+#      #+#     #+# #+#   #+#+# #+#    #+# 
   #######  ###       ### #########  ###     ### ########## ######### ###     ### ###    ####  ########  
   ```
-## 𝕴𝖋 𝖞𝖔𝖚 𝖆𝖗𝖊 𝖓𝖔𝖙 𝖜𝖎𝖑𝖑𝖎𝖓𝖌 𝖙𝖔 𝖗𝖎𝖘𝖐 𝖙𝖍𝖊 𝖚𝖘𝖚𝖆𝖑, 𝖞𝖔𝖚 𝖜𝖎𝖑𝖑 𝖍𝖆𝖛𝖊 𝖙𝖔 𝖘𝖊𝖙𝖙𝖑𝖊 𝖋𝖔𝖗 𝖙𝖍𝖊 𝖔𝖗𝖉𝖎𝖓𝖆𝖗𝖞.
+<p align="center">
+𝕀𝕗 𝕪𝕠𝕦 𝕒𝕣𝕖 𝕟𝕠𝕥 𝕨𝕚𝕝𝕝𝕚𝕟𝕘 𝕥𝕠 𝕣𝕚𝕤𝕜 𝕥𝕙𝕖 𝕦𝕤𝕦𝕒𝕝, 𝕪𝕠𝕦 𝕨𝕚𝕝𝕝 𝕙𝕒𝕧𝕖 𝕥𝕠 𝕤𝕖𝕥𝕥𝕝𝕖 𝕗𝕠𝕣 𝕥𝕙𝕖 𝕠𝕣𝕕𝕚𝕟𝕒𝕣𝕪.
+</p>
 
 <p align="center">
 <img   src="https://profile-counter.glitch.me/{lucaimbalzano}/count.svg">
@@ -43,5 +45,5 @@
 
 <img src="https://user-images.githubusercontent.com/45575898/132367258-a7e8de69-ecba-40ff-b1de-5ea5bae4eb8f.png" width="330" height="300" />
 <p align="center">
-sudo kill -9 `01011001 01001111 01010101`
+<sub><sup>⇂0⇂0⇂0⇂0 ⇂⇂⇂⇂00⇂0 ⇂00⇂⇂0⇂0 6- llıʞ opns</sup></sub>
 </p>
