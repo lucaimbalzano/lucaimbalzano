@@ -17,7 +17,9 @@
 </p>
 
 <img align="right" src="https://user-images.githubusercontent.com/45575898/132363723-f7bae9a4-99e1-40dd-9e9e-77440aee4586.png" width="40" height="40" /> <img align="right" src="https://user-images.githubusercontent.com/45575898/132371234-3dc7f969-c250-4bd4-a615-ab416c74fca3.png" width="40" height="40" /> <img align="right" src="https://user-images.githubusercontent.com/45575898/132365702-d8f3ea21-2527-457c-9137-177b60c62eca.png" width="40" height="40" /> <img align="right" src="https://user-images.githubusercontent.com/77233335/117994234-10286780-b349-11eb-86ce-8590604e86e3.png" width="40" height="40" /> <img align="right" src="https://user-images.githubusercontent.com/45575898/135502488-3852f11a-8b63-417b-b18b-051f0b47c6b3.png" width="40" height="40" /> 
-<!-- <img src="https://user-images.githubusercontent.com/45575898/132365706-1a3e7269-7aec-4106-87ca-957e6d64de1a.png" width="40" height="40" />  -->             <img src="https://user-images.githubusercontent.com/45575898/132365047-95a5d0bb-ab16-43db-b39e-23d88d0bbe64.png" width="40" height="40" />  <img src="https://user-images.githubusercontent.com/45575898/132372628-3e16e46f-197e-4edd-808c-586658967344.png" width="40" height="40" /> 
+<!-- <img src="https://user-images.githubusercontent.com/45575898/132365706-1a3e7269-7aec-4106-87ca-957e6d64de1a.png" width="40" height="40" />  -->
+
+<img src="https://user-images.githubusercontent.com/45575898/132365047-95a5d0bb-ab16-43db-b39e-23d88d0bbe64.png" width="40" height="40" />  <img src="https://user-images.githubusercontent.com/45575898/132372628-3e16e46f-197e-4edd-808c-586658967344.png" width="40" height="40" /> 
 <img src="https://user-images.githubusercontent.com/45575898/132372752-58592819-7436-492d-addf-6023302041f9.png" width="40" height="40" /> 
 <img src="https://user-images.githubusercontent.com/45575898/132372829-4afee963-5b96-4fe0-81fd-b6a9248d5469.png" width="40" height="40" /> 
 <img src="https://user-images.githubusercontent.com/45575898/132365042-e55f987d-7d75-4235-b46d-b37d13a306ff.png" width="40" height="40" /> 
