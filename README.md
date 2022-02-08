@@ -7,13 +7,13 @@
   #######  ###       ### #########  ###     ### ########## ######### ###     ### ###    ####  ########  
   ```
 <p align="center">
-## "𝕀𝕗 𝕪𝕠𝕦 𝕒𝕣𝕖 𝕟𝕠𝕥 𝕨𝕚𝕝𝕝𝕚𝕟𝕘 𝕥𝕠 𝕣𝕚𝕤𝕜 𝕥𝕙𝕖 𝕦𝕤𝕦𝕒𝕝, 𝕪𝕠𝕦 𝕨𝕚𝕝𝕝 𝕙𝕒𝕧𝕖 𝕥𝕠 𝕤𝕖𝕥𝕥𝕝𝕖 𝕗𝕠𝕣 𝕥𝕙𝕖 𝕠𝕣𝕕𝕚𝕟𝕒𝕣𝕪."
+ "𝕀𝕗 𝕪𝕠𝕦 𝕒𝕣𝕖 𝕟𝕠𝕥 𝕨𝕚𝕝𝕝𝕚𝕟𝕘 𝕥𝕠 𝕣𝕚𝕤𝕜 𝕥𝕙𝕖 𝕦𝕤𝕦𝕒𝕝, 𝕪𝕠𝕦 𝕨𝕚𝕝𝕝 𝕙𝕒𝕧𝕖 𝕥𝕠 𝕤𝕖𝕥𝕥𝕝𝕖 𝕗𝕠𝕣 𝕥𝕙𝕖 𝕠𝕣𝕕𝕚𝕟𝕒𝕣𝕪."
 </p>
 
 ![snake gif](https://github.com/lucaimbalzano/lucaimbalzano/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
-## ❄️ ❄️ ❄️
+❄️ ❄️ ❄️
 </p>
 
 <img src="https://user-images.githubusercontent.com/45575898/132363723-f7bae9a4-99e1-40dd-9e9e-77440aee4586.png" width="40" height="40" /> <img src="https://user-images.githubusercontent.com/45575898/132371234-3dc7f969-c250-4bd4-a615-ab416c74fca3.png" width="40" height="40" /> 
